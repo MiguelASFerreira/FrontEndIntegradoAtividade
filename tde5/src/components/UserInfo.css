@@ -1,0 +1,14 @@
+.containerHome {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.container {
+    background-color: cyan;
+    height: 100%;
+    width: 20rem;
+    border-radius: 1rem;
+}
