@@ -7,7 +7,7 @@ const ArraySort = () => {
 
  const ordenar = () => {
   const arrayOrdenado = [...array].sort((a, b) => a - b)
-  return setArray(arrayOrdenado)
+  setArray(arrayOrdenado)
 }
   return (
     <div>
